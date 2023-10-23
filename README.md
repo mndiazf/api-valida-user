@@ -14,6 +14,6 @@ API desarrollada con Spring Boot 3.1.4 y JDK 17. Verifica si un nombre de usuari
 
 ## Instalación y Ejecución
 
-1. Clona el repositorio:
+1. **Clona el repositorio:**
    ```bash
-   git clone [URL del repositorio]
+   git clone https://github.com/mndiazf/api-valida-user.git
