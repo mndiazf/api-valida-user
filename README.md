@@ -49,6 +49,7 @@ mvn spring-boot:run
 ```
 ##
 La API estará disponible en http://localhost:8080.
-Autor
 
-Este proyecto ha sido desarrollado por Tu Nombre.
+##Autor
+
+Este proyecto ha sido desarrollado por Manolo Diaz.
