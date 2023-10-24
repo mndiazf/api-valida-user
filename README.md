@@ -35,7 +35,7 @@ Sigue estos pasos para clonar y configurar el proyecto en tu entorno local:
 
 
 ```shell
- git clone https://github.com/tuusuario/nombre-de-usuario-api.git
+ git clone [https://github.com/tuusuario/nombre-de-usuario-api.git](https://github.com/mndiazf/api-valida-user.git)
 ```
 
 Abre el proyecto en tu entorno de desarrollo preferido. Asegúrate de tener Spring Boot 3.1.4 y JDK 17 instalados.
