@@ -21,7 +21,7 @@ Para validar un nombre de usuario, puedes usar una herramienta como Postman. Aqu
 
 **Ejemplo de Solicitud en Postman:**
 
-![Ejemplo de Solicitud en Postman](https://example.com/path/to/screenshot.png)
+![postmanexample](https://github.com/mndiazf/api-valida-user/assets/110750463/26a9a3ec-72bf-4d91-ae7f-82fdfde5a7dd)
 
 **Respuesta Esperada:**
 
